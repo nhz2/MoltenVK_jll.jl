@@ -1,0 +1,16 @@
+[[MoltenVK]]
+arch = "aarch64"
+git-tree-sha1 = "2369e98b5260a6fd61c7fb5df9e6527539573ec6"
+os = "macos"
+
+    [[MoltenVK.download]]
+    sha256 = "f9809e48d825aa301ab069ae0ed92d90f7aedf5a4230d5140eb2d876856db747"
+    url = "https://github.com/nhz2/MoltenVK_jll.jl/releases/download/MoltenVK-v1.4.1+0/MoltenVK.v1.4.1.aarch64-apple-darwin.tar.gz"
+[[MoltenVK]]
+arch = "x86_64"
+git-tree-sha1 = "eaf744a6132c05441c77172a2f984efda9ddd08f"
+os = "macos"
+
+    [[MoltenVK.download]]
+    sha256 = "260c6a9d883d7a0b59a948b53a092dbe978752e315340d00bf8a33c13e32faba"
+    url = "https://github.com/nhz2/MoltenVK_jll.jl/releases/download/MoltenVK-v1.4.1+0/MoltenVK.v1.4.1.x86_64-apple-darwin.tar.gz"
