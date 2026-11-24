@@ -8,7 +8,7 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libMoltenVK,
-        "lib/libMoltenVK.1.4.1.dylib",
+        "lib/libMoltenVK.1.4.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

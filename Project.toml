@@ -1,4 +1,4 @@
-version = "1.4.1+0"
+version = "1.4.2+0"
 name = "MoltenVK_jll"
 uuid = "20316463-eaa2-5a74-a67e-6de592da70c4"
 
@@ -9,6 +9,6 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
 Libdl = "< 0.0.1, 1"
-julia = "1.10"
+julia = "1.6"
 JLLWrappers = "1.7.0"
 Artifacts = "< 0.0.1, 1"
